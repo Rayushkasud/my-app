@@ -27,10 +27,13 @@ export default function Navbar() {
             Testimonials
           </a>
           <div className="social-icon">
-            <a href="https://www.linkedin.com/in/rayushka-s-0a67951a5/"  target="_blank">
+            <a
+              href="https://www.linkedin.com/in/rayushka-s-0a67951a5/"
+              target="_blank"
+            >
               <img src={"./assets/nav-icon1.svg"} alt="Linkedin" />
             </a>
-            <a href="https://github.com/Rayushkasud"  target="_blank">
+            <a href="https://github.com/Rayushkasud" target="_blank">
               <img src={"./assets/nav-icon2.svg"} alt="" />
             </a>
             {/* <a href="#">
@@ -39,10 +42,11 @@ export default function Navbar() {
           </div>
         </nav>
         <a
-          href="#contact"
+          target="_blank"
+          href="https://1drv.ms/w/s!Amax6wuBOC4OccwU00V0ol-9rJE"
           className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-base mt-4 md:mt-0"
         >
-          Contact Me
+          Resume
           {/* <ArrowRightIcon className="w-4 h-4 ml-1" /> */}
         </a>
       </div>
