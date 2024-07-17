@@ -46,18 +46,37 @@ export const testimonials = [
 export const skills = [
   "C++",
   "Python",
+  "Java",
   "JavaScript",
-  "Deep Learning",
   "HTML",
   "CSS",
   "SQL",
-  "ReactJS",
-  "Java",
-  "TensorFlow",
+  "Git",
+  "SpringBoot",
+  "Kubernetes",
+  "Jenkins",
+  "Devops",
+  "OOPs",
+  "Data Structures and Algorithms",
+  "Deep Learning",
+  "TensorFlow"
 ];
 export const experience = [
   {
+    Name: "Software Engineer at Persistent Systems",
+    link: "https://www.persistent.com/",
+  },
+  {
+    Name: "Machine Learning Engineer Intern at Tarcaz AI",
+    link: "https://tarcazai.in/"
+  },
+  {
+    Name: "Data Engineer Intern at LTIMindtree",
+    link: "https://www.ltimindtree.com/"
+  }, 
+  {
     Name: "Machine Learning Intern at the Indian Council of Agricultural Research",
+    link : 'https://icar.org.in/'
   },
   {
     Name: "Microsoft Learn Student Ambassador",
