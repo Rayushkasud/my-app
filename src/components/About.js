@@ -15,14 +15,7 @@ export default function About() {
               id="ray"
               className="mb-8 leading-relaxed bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900  text-base outline-none text-gray-100 py-1 px-3 leading-6 transition-colors duration-200 ease-in-out"
             >
-              I am a Final year Computer Science Student currently pursuing my
-              Bachelors of Technology from MIT ADT University, Pune. I am
-              passionate about Machine Learning and Web Development . My pursuit
-              for knowledge is driven by my hunger and passion to learn and I am
-              constantly looking for new opportunities to learn and challenge
-              myself in these areas by extensive reading, participating in
-              industry events, and experimenting and prototyping with fellow
-              tech enthusiasts.
+            I am a recent Computer Science Engineering graduate currently working as a Software Engineer. My pursuit for knowledge is driven by my hunger and passion to learn and I am constantly looking for new opportunities to learn and challenge myself in these areas by extensive reading, participating in industry events, and experimenting and prototyping with fellow tech enthusiasts.
             </teaxtarea>
 
             {/* <div className="flex justify-center">
